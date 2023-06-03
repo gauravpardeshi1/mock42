@@ -1,27 +1,5 @@
 {
-  "users": [
-    {
-      "username": "gaurav",
-      "email": "gauravpardeshi068@gmail.com",
-      "password": "1111",
-      "doctor": "True",
-      "id": 1
-    },
-    {
-      "username": "dadu",
-      "email": "g@gmail.com",
-      "password": "2222",
-      "doctor": "False",
-      "id": 2
-    },
-    {
-      "username": "vikki",
-      "email": "v@gmail.com",
-      "password": "3333",
-      "doctor": "False",
-      "id": 3
-    }
-  ],
+ 
   "appointments": [
     {
       "name": "Jane Doe",
@@ -112,5 +90,7 @@
       "isBooked": true,
       "id": 2
     }
-  ]
+  ],
+  "users":[],
+  "forum":[]
 }
